@@ -1,12 +1,10 @@
 ---
 layout: page
-title: working papers
-permalink: /projects/
+permalink: /publications/
+title: publications
 description: 
 nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+nav_order: 1
 ---
 
 <b>WORKING PAPERS <b>
