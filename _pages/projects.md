@@ -26,7 +26,7 @@ Abstract:
 
 - <i>Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments (with [Prosper Dovonon](https://sites.google.com/site/prosperdovonon/home) and [Nikolay Gospodinov](https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions)).
  
-- <i>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters (with [Antonio Marsi](https://sites.google.com/view/antoniomarsi/home).
+- <i>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters (with [Antonio Marsi](https://sites.google.com/view/antoniomarsi/home)).
 
 
 
