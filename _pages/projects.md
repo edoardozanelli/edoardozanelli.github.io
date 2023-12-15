@@ -15,7 +15,7 @@ nav_order: 1
 Abstract: 
 
 
-- <i>Parameters on the Boundary in Predictive Regression (with [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe) and [Iliyan Georgiev](https://www.unibo.it/sitoweb/i.georgiev).
+- <i>Parameters on the Boundary in Predictive Regression (with [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe) and [Iliyan Georgiev](https://www.unibo.it/sitoweb/i.georgiev)).
 
 Abstract: 
 
