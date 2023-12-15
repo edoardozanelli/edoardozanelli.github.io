@@ -1,58 +1,37 @@
 ---
 layout: page
-title: projects
+title: working papers
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+<b>WORKING PAPERS <b>
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+- <i>Bootstrapping Stochastic Time-Varying Coefficient Models<i>.
+
+Abstract: 
+
+
+- <i>Parameters on the Boundary in Predictive Regression<i> (with [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe) and [Iliyan Georgiev](https://www.unibo.it/sitoweb/i.georgiev).
+
+Abstract: 
+
+
+<b>PAPERS IN PROGRESS <b>
+
+- <i>Bootstrap Inference for Regression Discontinuity Designs<i> (with [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe), [Sílvia Gonçalves](https://silvia-goncalves.research.mcgill.ca/) & and [Morten Ørregaard Nielsen](https://sites.google.com/view/mortennielsen)).
+
+- <i>Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments<i> (with [Prosper Dovonon](https://sites.google.com/site/prosperdovonon/home) and [Nikolay Gospodinov](https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions)).
+ 
+- <i>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters<i> (with [Antonio Marsi](https://sites.google.com/view/antoniomarsi/home).
+
+
+
+
+
+
+
