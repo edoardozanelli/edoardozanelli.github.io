@@ -6,9 +6,7 @@ description:
 nav: true
 nav_order: 1
 ---
-
-layout: working papers
-title: working papers
+<div class="projects">
 
 <b>WORKING PAPERS
 
