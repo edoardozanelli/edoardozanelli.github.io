@@ -15,7 +15,7 @@ WORKING PAPERS
 Abstract: 
 
 
-- Parameters on the Boundary in Predictive Regression (with [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe) and [Iliyan Georgiev](https://www.unibo.it/sitoweb/i.georgiev)).
+- Parameters on the Boundary in Predictive Regression (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a> and [Iliyan Georgiev](https://www.unibo.it/sitoweb/i.georgiev)).
 
 Abstract: 
 
