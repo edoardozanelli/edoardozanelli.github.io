@@ -22,11 +22,11 @@ Abstract:
 
 PAPERS IN PROGRESS
 
-- Bootstrap Inference for Regression Discontinuity Designs (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>), <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a> ).
+- Bootstrap Inference for Regression Discontinuity Designs (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
 
-- Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments (with [Prosper Dovonon](https://sites.google.com/site/prosperdovonon/home) and [Nikolay Gospodinov](https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions)).
+- Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments (with <a href="https://sites.google.com/site/prosperdovonon/home">Prosper Dovonon</a>  and <a href="https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions">Nikolay Gospodinov</a>).
  
-- When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters (with [Antonio Marsi](https://sites.google.com/view/antoniomarsi/home)).
+- When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters (with <a href="https://sites.google.com/view/antoniomarsi/home">Antonio Marsi</a>).
 
 
 
