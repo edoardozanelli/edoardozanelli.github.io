@@ -15,14 +15,14 @@ WORKING PAPERS
 Abstract: 
 
 
-- Parameters on the Boundary in Predictive Regression (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a> and [Iliyan Georgiev](https://www.unibo.it/sitoweb/i.georgiev)).
+- Parameters on the Boundary in Predictive Regression (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a> and <a href="https://www.unibo.it/sitoweb/i.georgiev">Iliyan Georgiev</a>).
 
 Abstract: 
 
 
 PAPERS IN PROGRESS
 
-- Bootstrap Inference for Regression Discontinuity Designs (with [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe), [Sílvia Gonçalves](https://silvia-goncalves.research.mcgill.ca/) & and [Morten Ørregaard Nielsen](https://sites.google.com/view/mortennielsen)).
+- Bootstrap Inference for Regression Discontinuity Designs (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>), <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a> ).
 
 - Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments (with [Prosper Dovonon](https://sites.google.com/site/prosperdovonon/home) and [Nikolay Gospodinov](https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions)).
  
