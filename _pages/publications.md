@@ -9,4 +9,4 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-- Cavaliere, G., Nielsen, M. Ø., Gonçalves, S., Zanelli, E., [Bootstrap Inference in the Presence of Bias](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2284980), Journal of the American Statistical Association, forthcoming.
+- Cavaliere, G., Nielsen, M. Ø., Gonçalves, S., Zanelli, E., <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2284980"> <e>Bootstrap Inference in the Presence of Bias</e></a>, <b>Journal of the American Statistical Association</b>, forthcoming.
