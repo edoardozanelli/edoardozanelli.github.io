@@ -8,16 +8,14 @@ nav_order: 1
 ---
 <div class="projects">
 
-<p>WORKING PAPERS
 
-
-<p>- Bootstrapping Stochastic Time-Varying Coefficient Models. 
+<p>- <em>Bootstrapping Stochastic Time-Varying Coefficient Models</em>. 
 
 
 <p>Abstract: We propose a novel \emph{local pairs bootstrap} (LPB) in the context of autoregressive models with stochastic time-varying coefficients. Asymptotic validity is established under general forms of (conditional and unconditional) heteroskedasticity. In the process, we also show asymptotic validity of a \emph{fixed-regressor wild bootstrap} (FWB) and compare the finite sample properties of the  two methods, in the spirit of Gonçalves and Kilian (2004). We introduce a dynamic bandwidth to allow for local adaptive smoothing and provide two data-driven procedures for calibration. Extensive Monte Carlo simulations show that both bootstrap methods outperform the standard asymptotic estimator and that the LPB is generally preferable. Finally, we implement our theoretical findings to investigate the empirical issue of the evolution of inflation and expected inflation persistence.
 
 
-<p>- Parameters on the Boundary in Predictive Regression (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a> and <a href="https://www.unibo.it/sitoweb/i.georgiev">Iliyan Georgiev</a>).
+<p>- <em>Parameters on the Boundary in Predictive Regression</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a> and <a href="https://www.unibo.it/sitoweb/i.georgiev">Iliyan Georgiev</a>).
 
 <p>Abstract: We consider bootstrap inference in predictive (or Granger-causality)
 regressions when the parameter of interest may lie on the boundary of the
@@ -42,13 +40,23 @@ model, has bearing on inference in parameter-on-the-boundary situations
 beyond the predictive regression problem.
 
 
-<p>PAPERS IN PROGRESS
+<p> <b>PAPERS IN PROGRESS</b>
 
-<p>- Bootstrap Inference for Regression Discontinuity Designs (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
-
-<p>- Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments (with <a href="https://sites.google.com/site/prosperdovonon/home">Prosper Dovonon</a>  and <a href="https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions">Nikolay Gospodinov</a>).
  
-<p>- When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters (with <a href="https://sites.google.com/view/antoniomarsi/home">Antonio Marsi</a>).
+<br>
+
+<p>- <em>Bootstrap Inference for Regression Discontinuity Designs</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
+
+ 
+<br>
+
+
+<p>- <em>Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments</em> (with <a href="https://sites.google.com/site/prosperdovonon/home">Prosper Dovonon</a>  and <a href="https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions">Nikolay Gospodinov</a>).
+
+<br>
+
+ 
+<p>- <em>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters</em> (with <a href="https://sites.google.com/view/antoniomarsi/home">Antonio Marsi</a>).
 
 
 
