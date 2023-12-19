@@ -9,10 +9,10 @@ nav_order: 1
 <div class="projects">
 
 
-<p>- <em>Bootstrapping Stochastic Time-Varying Coefficient Models</em>. 
+<p>- <font size="+1"><em>Bootstrapping Stochastic Time-Varying Coefficient Models</em></font>. 
 
 
-<p>Abstract: We propose a novel <em>local pairs bootstrap</em> (LPB) in the context of autoregressive models with stochastic time-varying coefficients. Asymptotic validity is established under general forms of (conditional and unconditional) heteroskedasticity. In the process, we also show asymptotic validity of a <em>fixed-regressor wild bootstrap</em> (FWB) and compare the finite sample properties of the  two methods, in the spirit of Gonçalves and Kilian (2004). We introduce a dynamic bandwidth to allow for local adaptive smoothing and provide two data-driven procedures for calibration. Extensive Monte Carlo simulations show that both bootstrap methods outperform the standard asymptotic estimator and that the LPB is generally preferable. Finally, we implement our theoretical findings to investigate the empirical issue of the evolution of inflation and expected inflation persistence.
+<p><font size="-1">Abstract: We propose a novel <em>local pairs bootstrap</em> (LPB) in the context of autoregressive models with stochastic time-varying coefficients. Asymptotic validity is established under general forms of (conditional and unconditional) heteroskedasticity. In the process, we also show asymptotic validity of a <em>fixed-regressor wild bootstrap</em> (FWB) and compare the finite sample properties of the  two methods, in the spirit of Gonçalves and Kilian (2004). We introduce a dynamic bandwidth to allow for local adaptive smoothing and provide two data-driven procedures for calibration. Extensive Monte Carlo simulations show that both bootstrap methods outperform the standard asymptotic estimator and that the LPB is generally preferable. Finally, we implement our theoretical findings to investigate the empirical issue of the evolution of inflation and expected inflation persistence.</font>
 
 
 <p>- <em>Parameters on the Boundary in Predictive Regression</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a> and <a href="https://www.unibo.it/sitoweb/i.georgiev">Iliyan Georgiev</a>).
