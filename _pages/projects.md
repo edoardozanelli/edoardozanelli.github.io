@@ -12,12 +12,12 @@ nav_order: 1
 <p>- <font size="+1"><em>Bootstrapping Stochastic Time-Varying Coefficient Models</em></font>. 
 
 
-<p><font size="-0.75">Abstract: We propose a novel <em>local pairs bootstrap</em> (LPB) in the context of autoregressive models with stochastic time-varying coefficients. Asymptotic validity is established under general forms of (conditional and unconditional) heteroskedasticity. In the process, we also show asymptotic validity of a <em>fixed-regressor wild bootstrap</em> (FWB) and compare the finite sample properties of the  two methods, in the spirit of Gonçalves and Kilian (2004). We introduce a dynamic bandwidth to allow for local adaptive smoothing and provide two data-driven procedures for calibration. Extensive Monte Carlo simulations show that both bootstrap methods outperform the standard asymptotic estimator and that the LPB is generally preferable. Finally, we implement our theoretical findings to investigate the empirical issue of the evolution of inflation and expected inflation persistence.</font>
+<p><font size="-1">Abstract: We propose a novel <em>local pairs bootstrap</em> (LPB) in the context of autoregressive models with stochastic time-varying coefficients. Asymptotic validity is established under general forms of (conditional and unconditional) heteroskedasticity. In the process, we also show asymptotic validity of a <em>fixed-regressor wild bootstrap</em> (FWB) and compare the finite sample properties of the  two methods, in the spirit of Gonçalves and Kilian (2004). We introduce a dynamic bandwidth to allow for local adaptive smoothing and provide two data-driven procedures for calibration. Extensive Monte Carlo simulations show that both bootstrap methods outperform the standard asymptotic estimator and that the LPB is generally preferable. Finally, we implement our theoretical findings to investigate the empirical issue of the evolution of inflation and expected inflation persistence.</font>
 
 
-<p>- <em>Parameters on the Boundary in Predictive Regression</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a> and <a href="https://www.unibo.it/sitoweb/i.georgiev">Iliyan Georgiev</a>).
+<p>- <font size="+1"><em>Parameters on the Boundary in Predictive Regression</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a> and <a href="https://www.unibo.it/sitoweb/i.georgiev">Iliyan Georgiev</a>)</font>..
 
-<p>Abstract: We consider bootstrap inference in predictive (or Granger-causality)
+<p><font size="-1">Abstract: We consider bootstrap inference in predictive (or Granger-causality)
 regressions when the parameter of interest may lie on the boundary of the
 parameter space, here defined by means of a smooth inequality constraint.
 For instance, this situation occurs when the definition of the parameter
@@ -37,7 +37,7 @@ limiting bootstrap randomness, we prove validity of the associated bootstrap
 inference in the cases where the posited predicting variable is either I(1)
 or I(0). Our approach, which is initially presented in a simple location
 model, has bearing on inference in parameter-on-the-boundary situations
-beyond the predictive regression problem.
+beyond the predictive regression problem.</font>
 
 
 <p> <b>PAPERS IN PROGRESS</b>
