@@ -8,4 +8,4 @@ nav_order: 3
 ---
 <div class="projects">
 
-You can download my cv <a href="cv_zanelli_122023.pdf" here>.
+You can download my cv [**here**](https://edoardozanelli.github.io/cv_zanelli_122023.pdf).
