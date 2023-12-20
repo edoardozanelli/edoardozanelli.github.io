@@ -15,4 +15,4 @@ nav_order: 1
 <br>
 
 
-We consider bootstrap inference for asymptotically biased estimators. We show that proper implementations of the bootstrap can deliver valid inference bypassing bias estimation. The procedure is based on the prepivoting approach of Beran (1987, 1988), originally proposed to deliver higher-order refinements. We propose two different implementations of prepivoting and show the practical relevance of the results through five specific examples.
+<font size="-1">We consider bootstrap inference for asymptotically biased estimators. We show that proper implementations of the bootstrap can deliver valid inference bypassing bias estimation. The procedure is based on the prepivoting approach of Beran (1987, 1988), originally proposed to deliver higher-order refinements. We propose two different implementations of prepivoting and show the practical relevance of the results through five specific examples.</font>
