@@ -13,7 +13,7 @@ profile:
     <p>Piazza Scaravilli 2,</p>
     <p>Bologna (BO), Italy.</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -30,3 +30,4 @@ My research is about Econometrics, with a specific focus on Nonparametric method
   <li>Specification testing for IV.</li>
   <li>Estimation of instabilities in the Phillips Curve.</li>
 </ul>
+
