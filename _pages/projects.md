@@ -55,7 +55,7 @@ beyond the predictive regression problem.</font>
 <br>
 
  
-<p>- <em>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters</em> (with <a href="https://sites.google.com/view/antoniomarsi/home">Antonio Marsi</a>).
+<p>- <em>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters</em> (with <a href="https://www.unibo.it/sitoweb/claudio.lissona2/en">Claudio Lissona</a> and <a href="https://sites.google.com/view/antoniomarsi/home">Antonio Marsi</a>).
 
 
 
