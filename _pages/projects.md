@@ -44,7 +44,7 @@ beyond the predictive regression problem.</font>
  
 <br>
 
-<p>- <em>Bootstrap Inference for Regression Discontinuity Designs</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
+<p>- <em>Improved Inference for Nonparametric Regression and Regression-Discontinuity Designs</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
 
  
 <br>
