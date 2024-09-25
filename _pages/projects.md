@@ -4,7 +4,7 @@ permalink: /projects/
 title: working papers
 description: 
 nav: true
-nav_order: /
+nav_order: 
 ---
 <div class="projects">
 
