@@ -1,11 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
+description: 
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 3
 ---
+<div class="projects">
+
+You can download my cv <a href="https://edoardozanelli.github.io/cv_102024.pdf">here</a>.
