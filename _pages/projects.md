@@ -8,6 +8,23 @@ nav_order:
 ---
 <div class="projects">
 
+<p>- <em>Improved Inference for Nonparametric Regression and Regression-Discontinuity Designs</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
+
+<p><font size="-1"><u>Abstract</u>: We consider inference for (possibly) non-linear conditional expectations in the setup of
+nonparametric regression and regression-discontinuity designs. In this context, inference
+is challenging due to asymptotic bias of local polynomial estimators. We propose a novel
+approach to restore valid inference by means of proper implementations of the bootstrap.
+Specifically, we show conditions under which, even if the bootstrap test statistic is not able
+to mimic the behavior of the asymptotic bias – making the bootstrap fail under standard
+arguments – the large sample distribution of the bootstrap p-value only depends on some
+nuisance parameters which are easily estimable. We introduce two bootstrap algorithms,
+namely the local linear (LL) and local quadratic (LQ) bootstrap, which deliver asymptotically
+valid confidence intervals (CIs) in both interior and boundary points without requiring
+undersmoothing or direct bias correction. We demonstrate the theoretical validity and
+analyze the efficiency properties of these methods, highlighting the asymptotic equivalence
+of LQ bootstrap-based prepivoted CIs with robust bias correction (RBC) intervals, while
+showing that LL bootstrap-based CIs achieve greater efficiency. Monte Carlo simulations
+confirm the practical relevance of our methods.</font>
 
 <p>- <font size="+1"><em>Bootstrapping Stochastic Time-Varying Coefficient Models</em></font>. 
 
@@ -22,9 +39,6 @@ nav_order:
 <p> <b>PAPERS IN PROGRESS</b>
 
  
-<br>
-
-<p>- <em>Improved Inference for Nonparametric Regression and Regression-Discontinuity Designs</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
 
  
 <br>
