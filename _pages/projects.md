@@ -8,7 +8,7 @@ nav_order:
 ---
 <div class="projects">
 
-<p>- <a href="https://edoardozanelli.github.io/CGNZ2_23112024.pdf">Improved Inference for Nonparametric regression and Regression Discontinuity Designs</a> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
+<p>- Improved Inference for Nonparametric regression and Regression Discontinuity Designs</a> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  & and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>).
 
 <p><font size="-1"><u>Abstract</u>: We consider inference for (possibly) non-linear conditional expectations in the setup of
 nonparametric regression and regression-discontinuity designs. In this context, inference
