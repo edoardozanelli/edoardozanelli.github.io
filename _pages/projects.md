@@ -18,13 +18,13 @@ Specifically, we show conditions under which, even if the bootstrap test statist
 to mimic the behavior of the asymptotic bias – making the bootstrap fail under standard
 arguments – the large sample distribution of the bootstrap p-value only depends on some
 nuisance parameters which are easily estimable. We introduce two bootstrap algorithms,
-namely the local linear (LL) and local quadratic (LQ) bootstrap, which deliver asymptotically
-valid confidence intervals (CIs) in both interior and boundary points without requiring
-undersmoothing or direct bias correction. We demonstrate the theoretical validity and
+namely the local polynomial (LP) and fixed-local (FL) bootstrap, which deliver asymptot-
+ically valid confidence intervals (CIs) in both interior and boundary points without requir-
+ing undersmoothing or direct bias correction. We demonstrate the theoretical validity and
 analyze the efficiency properties of these methods, highlighting the asymptotic equivalence
-of LQ bootstrap-based prepivoted CIs with robust bias correction (RBC) intervals, while
-showing that LL bootstrap-based CIs achieve greater efficiency. Monte Carlo simulations
-confirm the practical relevance of our methods.</font>
+of FL bootstrap-based prepivoted CIs with robust bias correction (RBC) intervals, while
+showing that LP bootstrap-based CIs achieve greater efficiency. Monte Carlo simulations
+confirm the practical relevance of our methods. </font>
 
 <p>- <font size="+1"><em>Bootstrapping Stochastic Time-Varying Coefficient Models</em></font>. 
 
