@@ -9,7 +9,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<p>- <font size="+1"> Cavaliere, G., Georgiev, I., Zanelli, E. (2024): <a href="https://arxiv.org/pdf/2409.12611"> Parameters on the Boundary in Predictive Regression</a>, <b><i>Econometric Theory</i></b>, forthcoming.</font>
+<p>- <font size="+1"> Cavaliere, G., Georgiev, I., Zanelli, E. (2025): <a href="https://arxiv.org/pdf/2409.12611"> Parameters on the Boundary in Predictive Regression</a>, <b><i>Econometric Theory</i></b>, forthcoming.</font>
 
 <p><font size="-1"> We consider bootstrap inference in predictive (or Granger-causality)
 regressions when the parameter of interest may lie on the boundary of the
