@@ -23,6 +23,8 @@ Welcome to my Website!
 
 I am a 5th year PhD student in Economics at the University of Bologna, under the supervision of Prof. [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe). 
 
+In Fall 2025, I will join Aarhus University and the Aarhus Center for Econometrics (ACE) as a Postdoctoral Researcher!
+
 My research is about Econometrics, with a specific focus on Nonparametric methods and Bootstrap inference. My current projects relate to:
 <ul>
   <li>Bootstrap inference for nonlinear econometric models and asymptotically biased estimators.</li>
