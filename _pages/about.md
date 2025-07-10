@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my Website! 
 
-I am a Research Fellow at the Department of Econonmics at University of Bologna.
+I am a Research Fellow at the Department of Economics at University of Bologna.
 
 I obtained my PhD in Economics at the University of Bologna, under the supervision of Prof. [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe). 
 
