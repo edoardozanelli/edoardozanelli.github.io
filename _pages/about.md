@@ -21,7 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my Website! 
 
-I am a 5th year PhD student in Economics at the University of Bologna, under the supervision of Prof. [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe). 
+I am a Research Fellow at the Department of Econonmics at University of Bologna.
+
+I obtained my PhD in Economics at the University of Bologna, under the supervision of Prof. [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe). 
 
 In Fall 2025, I will join Aarhus University and the Aarhus Center for Econometrics (ACE) as a Postdoctoral Researcher!
 
