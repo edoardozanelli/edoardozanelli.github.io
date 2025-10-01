@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Bologna, Department of Economics.
+subtitle: Aarhus Center for Econometrics, Aarhus University.
 
 profile:
   align: right
   image: webpage_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 120,</p>
-    <p>Piazza Scaravilli 2,</p>
-    <p>Bologna (BO), Italy.</p>
+    <p>Office 11,</p>
+    <p>Fuglesgangs Alle 4,</p>
+    <p>8210 Aarhus V,</p>
+    <p>Denmark.</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,11 +22,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my Website! 
 
-I am a Research Fellow at the Department of Economics at University of Bologna.
+I am a Postdoctoral Researcher at the [Aarhus Center for Econometrics (ACE)](https://econ.au.dk/ace), Aarhus University.
 
 I obtained my PhD in Economics at the University of Bologna, under the supervision of Prof. [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe). 
-
-In Fall 2025, I will join Aarhus University and the Aarhus Center for Econometrics (ACE) as a Postdoctoral Researcher!
 
 My research is about Econometrics, with a specific focus on Nonparametric methods and Bootstrap inference. My current projects relate to:
 <ul>
