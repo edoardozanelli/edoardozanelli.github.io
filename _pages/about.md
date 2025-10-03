@@ -20,9 +20,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-<img src="https://edoardozanelli.github.io/03_ACE_logo_venstre_positiv.png" width="450" alt="ACE" />
-
 Welcome to my Website! 
 
 I am a Postdoctoral Researcher at the [Aarhus Center for Econometrics (ACE)](https://econ.au.dk/ace), Aarhus University.
@@ -36,4 +33,6 @@ My research is about Econometrics, with a specific focus on Nonparametric method
   <li>Specification testing for IV.</li>
   <li>Estimation of instabilities in the Phillips Curve.</li>
 </ul>
+
+<img src="https://edoardozanelli.github.io/03_ACE_logo_venstre_positiv.png" width="450" alt="ACE" />
 
