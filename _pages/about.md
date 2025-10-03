@@ -34,3 +34,5 @@ My research is about Econometrics, with a specific focus on Nonparametric method
   <li>Estimation of instabilities in the Phillips Curve.</li>
 </ul>
 
+<img src="03_ACE_logo_venstre_positiv.png" alt="ACE" />
+
