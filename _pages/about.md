@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-<img src="https://edoardozanelli.github.io/03_ACE_logo_venstre_positiv.png" width="400" alt="ACE" />
+<img src="https://edoardozanelli.github.io/03_ACE_logo_venstre_positiv.png" width="450" alt="ACE" />
 
 Welcome to my Website! 
 
