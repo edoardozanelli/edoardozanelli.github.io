@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 11,</p>
-    <p>Fuglesgangs Alle 4,</p>
+    <p>Fuglesangs Alle 4,</p>
     <p>8210 Aarhus V,</p>
     <p>Denmark.</p>
 
@@ -33,6 +33,8 @@ My research is about Econometrics, with a specific focus on Nonparametric method
   <li>Specification testing for IV.</li>
   <li>Estimation of instabilities in the Phillips Curve.</li>
 </ul>
+
+
 
 <img src="https://edoardozanelli.github.io/03_ACE_logo_venstre_positiv.png" width="450" alt="ACE" />
 
