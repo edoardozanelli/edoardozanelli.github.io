@@ -41,7 +41,7 @@ the practical relevance of our methods. </font>
 <p>- <em>Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments</em> (with <a href="https://sites.google.com/site/prosperdovonon/home">Prosper Dovonon</a>  and <a href="https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions">Nikolay Gospodinov</a>).
 
 
-<p>- <font size="+1"><em>Bootstrapping Stochastic Time-Varying Coefficient Models</em></font>. 
+<p>- <em>Bootstrapping Stochastic Time-Varying Coefficient Models</em>. 
 
 
 
