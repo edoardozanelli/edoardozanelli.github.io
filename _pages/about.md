@@ -26,6 +26,7 @@ I am a Postdoctoral Researcher at the [Aarhus Center for Econometrics (ACE)](htt
 
 I obtained my PhD in Economics at the University of Bologna, under the supervision of Prof. [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe). 
 
+
 My research is about Econometrics, with a specific focus on Nonparametric methods and Bootstrap inference. My current projects relate to:
 <ul>
   <li>Bootstrap inference for nonlinear econometric models and asymptotically biased estimators.</li>
@@ -34,7 +35,8 @@ My research is about Econometrics, with a specific focus on Nonparametric method
   <li>Estimation of instabilities in the Phillips Curve.</li>
 </ul>
 
+You can download my cv <a href="https://edoardozanelli.github.io/cv_102025.pdf">here</a> (last update: October 2025).
 
 
-<img src="https://edoardozanelli.github.io/03_ACE_logo_venstre_positiv.png" width="450" alt="ACE" />
+<img src="https://edoardozanelli.github.io/03_ACE_logo_venstre_positiv.png" width="425" alt="ACE" />
 
