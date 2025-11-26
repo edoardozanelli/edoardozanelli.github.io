@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my Website! 
 
-I am a Postdoctoral Researcher at the [Aarhus Center for Econometrics (ACE)](https://econ.au.dk/ace), Aarhus University.
+I am a Postdoctoral Researcher at [Aarhus Center for Econometrics (ACE)](https://econ.au.dk/ace), Aarhus University.
 
 I obtained my PhD in Economics at the University of Bologna, under the supervision of Prof. [Giuseppe Cavaliere](https://giuseppecavaliere.wixsite.com/giuseppe). 
 
