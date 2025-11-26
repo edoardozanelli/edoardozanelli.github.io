@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my Website! Ciao!
+Ciao!
 
 I am a Postdoctoral Researcher at [Aarhus Center for Econometrics (ACE)](https://econ.au.dk/ace), Aarhus University.
 
