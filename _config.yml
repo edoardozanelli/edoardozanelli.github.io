@@ -8,7 +8,7 @@ middle_name:
 last_name: Zanelli
 email: ez@econ.au.dk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to my website! I am a 4th year PhD student in Economics at the University of Bologna.
+  Postdoc at Aarhus U
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
