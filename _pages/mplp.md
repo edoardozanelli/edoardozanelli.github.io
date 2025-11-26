@@ -14,6 +14,3 @@ The R package for the mPLP-RDD method of Cavaliere, Goncalves, Nielsen and Zanel
 
 
 
-
-
-<br>
