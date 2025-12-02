@@ -10,7 +10,7 @@ nav_order:
 
 <p>- <font size="+1"><em>Improved Inference for Nonparametric Regression</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>). </font>
 
-<p> <font size="-1.5"> <a href="https://arxiv.org/abs/2512.00566 ">ArXiv</a></font>, <font size="-1.5"> <a href="https://pppackages.github.io">R packages</a></font>
+<p> <font size="-1.5"> <a href="https://arxiv.org/abs/2512.00566">ArXiv</a></font>, <font size="-1.5"> <a href="https://pppackages.github.io">R packages</a></font>
 
 
 
