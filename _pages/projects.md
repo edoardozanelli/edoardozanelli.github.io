@@ -10,21 +10,11 @@ nav_order:
 
 <p>- <font size="+1"><em>Improved Inference for Nonparametric Regression</em> (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>). </font>
 
-<p><font size="-1"><u>Abstract</u>: We consider inference for (possibly) non-linear conditional expectations in the setup of
-nonparametric regression and regression-discontinuity designs. In this context, inference
-is challenging due to asymptotic bias of local polynomial estimators. We propose a novel
-approach to restore valid inference by means of proper implementations of the bootstrap.
-Specifically, we show conditions under which, even if the bootstrap test statistic is not able
-to mimic the behavior of the asymptotic bias – making the bootstrap fail using standard
-arguments – the large sample distribution of the bootstrap p-value only depends on some
-nuisance parameters which are easily estimable. We introduce two bootstrap algorithms,
-namely the local polynomial (LP) and fixed-local (FL) bootstrap, which deliver asymptotically
-valid confidence intervals (CIs) for both interior and boundary points without requiring
-undersmoothing or direct bias correction. We demonstrate the theoretical validity and
-analyze the efficiency properties of these methods, highlighting the asymptotic equivalence
-of the FL bootstrap-based CIs with robust bias correction (RBC) intervals, while showing
-that LP bootstrap-based CIs achieve greater efficiency. Monte Carlo simulations confirm
-the practical relevance of our methods. </font>
+<p> <font size="-1.5"> <a href="https://arxiv.org/abs/2512.00566 ">ArXiv</a></font>, <font size="-1.5"> <a href="https://pppackages.github.io">R packages</a></font>
+
+
+
+<p><font size="-1"><u>Abstract</u>: Nonparametric regression estimators, including those employed in regression-discontinuity designs (RDD), are central to the economist's toolbox. Their application, however, is complicated by the presence of asymptotic bias, which undermines coverage accuracy of conventional confidence intervals. Extant solutions to the problem include debiasing methods, such as the widely applied robust bias-corrected (RBC) confidence interval of Calonico et al. (2014, 2018). We show that this interval is equivalent to a prepivoted interval based on an invalid residual-based bootstrap method. Specifically, prepivoting performs an implicit bias correction while adjusting the nonparametric regression estimator's standard error to account for the additional uncertainty introduced by debiasing. This idea can also be applied to other bootstrap schemes, leading to new implicit bias corrections and corresponding standard error adjustments. We propose a prepivoted interval based on a bootstrap that generates observations from nonparametric regression estimates at each regressor value and show how it can be implemented as an RBC-type interval without the need for resampling. Importantly, we show that the new interval is shorter than the existing RBC interval. For example, with the Epanechnikov kernel, the length is reduced by 17%, while maintaining accurate coverage probability. This result holds irrespectively of: (a) the evaluation point being in the interior or on the boundary; (b) the use of a 'small' or 'large' bandwidths; (c) the distribution of the regressor and the error term. </font>
 
 
 <p>- <font size="+1"><em>When did the Phillips Curve Become Flat? A time-varying estimate of structural parameters</em> (with <a href="https://claudiolissona.github.io/">Claudio Lissona</a> and <a href="https://sites.google.com/view/antoniomarsi/home">Antonio Marsi</a>).</font>
