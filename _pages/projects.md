@@ -8,7 +8,7 @@ nav_order:
 ---
 <div class="projects">
 
-<p>- <font size="+1"> Improved Inference for Nonparametric Regression (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>), <em>ArXiv:2512.00566</em>.</font>
+<p>- <font size="+1"> Improved Inference for Nonparametric Regression (with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>, <a href="https://silvia-goncalves.research.mcgill.ca/">Sílvia Gonçalves</a>  and <a href="https://sites.google.com/view/mortennielsen">Morten Ørregaard Nielsen</a>), <em>arXiv:2512.00566</em>.</font>
 
 <p>  <font size="-1.5"> [<a href="https://arxiv.org/abs/2512.00566">draft</a></font>, <font size="-1.5"> <a href="https://pppackages.github.io">R packages</a>]</font>
 
