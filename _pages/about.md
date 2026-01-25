@@ -9,9 +9,9 @@ profile:
   image: webpage_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 11,</p>
-    <p>Fuglesangs Alle 4,</p>
-    <p>8210 Aarhus V,</p>
+    <p>Office 1816-328,</p>
+    <p>Universitetsbyen 51,</p>
+    <p>8000 Aarhus C,</p>
     <p>Denmark.</p>
 
 news: true  # includes a list of news items
