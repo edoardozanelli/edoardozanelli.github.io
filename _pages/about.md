@@ -35,7 +35,7 @@ My research is about Econometrics, with a specific focus on Nonparametric method
   <li>Estimation of instabilities in the Phillips Curve.</li>
 </ul>
 
-You can download my cv <a href="https://edoardozanelli.github.io/cv_102025.pdf">here</a> (last update: October 2025).
+You can download my cv <a href="https://edoardozanelli.github.io/cv_052026.pdf">here</a> (last update: May 2026).
 
 
 <img src="https://edoardozanelli.github.io/03_ACE_logo_venstre_positiv.png" width="425" alt="ACE" />
