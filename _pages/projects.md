@@ -31,6 +31,9 @@ nav_order:
 <p>- <em>Bootstrapping Exogeneity Tests in Linear Models with Possibly Weak Instruments</em> (with <a href="https://sites.google.com/site/prosperdovonon/home">Prosper Dovonon</a>  and <a href="https://sites.google.com/site/gospodinovfed/nikolay-gospodinov-cv-and-research-contributions">Nikolay Gospodinov</a>).
 
 
+<p>- <em>Zero Impulse Responses</em> (with with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>  and with <a href="https://sites.google.com/site/lucafanelliunibo/home?authuser=0">Luca Fanelli</a>).
+
+
 <p>- <em>Bootstrapping Stochastic Time-Varying Coefficient Models</em>. 
 
 
