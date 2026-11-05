@@ -34,6 +34,9 @@ nav_order:
 <p>- <em>Zero Impulse Responses</em> (with with <a href="https://giuseppecavaliere.wixsite.com/giuseppe">Giuseppe Cavaliere</a>  and with <a href="https://sites.google.com/site/lucafanelliunibo/home?authuser=0">Luca Fanelli</a>).
 
 
+<p>- <em>Local Noncausality and Stochastic Bursts</em> (with <a href="https://www.gabrielemingoli.com">Gabriele Mingoli</a>).
+
+
 <p>- <em>Bootstrapping Stochastic Time-Varying Coefficient Models</em>. 
 
 
